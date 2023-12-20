@@ -21,3 +21,4 @@ De-Duplication and Diversification | [![arXiv](https://img.shields.io/badge/arXi
 | Textbooks Are All You Need: Phi2 | [![arXiv](https://img.shields.io/badge/arXiv-2309.05463-b31b1b.svg)](https://arxiv.org/abs/2309.05463) | [(Playground)](https://ai.azure.com/explore/models/microsoft-phi-2/version/4/registry/azureml-msr)|
 | Chatbot to explore all of NeurIPS23 Microsft research (100+ papers) |  | [(Demo)](https://neurips-chatbot.azurewebsites.net/)|
 | Chatbot to explore all of NeurIPS23 posters (1000+ posters) |  | [(Demo)](https://neurips-chatbot.azurewebsites.net/)|
+| MISTRAL’S Mixtral-8x7B | [Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/) | [(Playground)](https://labs.perplexity.ai/)|

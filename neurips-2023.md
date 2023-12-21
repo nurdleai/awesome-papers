@@ -21,3 +21,11 @@ Critics for Mitigating Toxicity and Hallucination | [(OpenReview)](https://openr
 | Chatbot to explore all of NeurIPS23 Microsft research (100+ papers) |  | [(Demo)](https://neurips-chatbot.azurewebsites.net/)|
 | Chatbot to explore all of NeurIPS23 posters (1000+ posters) |  | [(Demo)](https://neurips-chatbot.azurewebsites.net/)|
 | MISTRAL’S Mixtral-8x7B | [Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/) | [(Playground)](https://labs.perplexity.ai/)|
+| Goal Driven Discovery of Distributional Differences via Language Descriptions|[![arXiv](https://img.shields.io/badge/arXiv-2302.14233-b31b1b.svg)](https://arxiv.org/abs/2302.14233)
+| Direct Preference Optimization: Your Language Model is Secretly a Reward Model | [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-b31b1b.svg)](https://arxiv.org/abs/2305.18290)
+| Scaling Data-Constrained Language Models | [![arXiv](https://img.shields.io/badge/arXiv-2305.16264-b31b1b.svg)](https://arxiv.org/abs/2305.16264)
+| Evaluating Language Model Finetuning Techniques for Low-resource Languages | [![arXiv](https://img.shields.io/badge/arXiv-1907.00409-b31b1b.svg)](https://arxiv.org/abs/1907.00409)
+| Fine-Tuning Language Models with Just Forward Passes | [(OpenReview)](https://openreview.net/forum?id=Vota6rFhBQ)
+| Improving Language Plasticity via Pretraining with Active Forgetting | [![arXiv](https://img.shields.io/badge/arXiv-2307.01163-b31b1b.svg)](https://arxiv.org/abs/2307.01163)
+| Focused Transformer: Contrastive Training for Context Scaling |  [![arXiv](https://img.shields.io/badge/arXiv-2307.03170-b31b1b.svg)](https://arxiv.org/abs/2307.03170)
+| Learning to Compress Prompts with Gist Tokens | [![arXiv](https://img.shields.io/badge/arXiv-2304.08467-b31b1b.svg)](https://arxiv.org/abs/2304.08467)
